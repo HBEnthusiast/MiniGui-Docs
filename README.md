@@ -5,7 +5,7 @@ After a couple of years of frustration typing in very simple search terms in Min
 
 The first 2 are Treepad formats.  One of them, MiniGui.exe, is a self-contained executable Help file.  The second, MiniGui, is a common Treepad intermediate format for Importing and Exporting from and to Treepad.  MiniGui.html is all of the Help Text in a single Html file.
 
-Note that images are not included in the converted Help files.
+Note that the converted Help files include only text, not images.
 
 These Help files are current as of 11/24/2021.
 
