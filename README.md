@@ -16,3 +16,4 @@ Note that the converted Help files Minigui.exe and Minigui.hjt include only text
 
 These Help files are current as of 11/24/2021.
 
+Note: Updates for 01/19/2022 can be found in Minigui_chm_2022019.zip.
